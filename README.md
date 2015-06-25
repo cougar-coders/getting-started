@@ -1,6 +1,6 @@
 # getting-started
 
-Welcome Cougar Coders! For now, watch this document for links about learning coding and organizing how we collaborate on here. 
+##Welcome Cougar Coders! For now, watch this document for links about learning coding and organizing how we collaborate on here. 
 
 You can get started learning to code in Python, Java, Ruby, and some others at:
 
